@@ -1,0 +1,3 @@
+cd /sdcard
+ls
+python LOVERS.py
